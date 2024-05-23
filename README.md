@@ -16,6 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 😂 Random Dev Meme
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1643651007781/Zlb8Pxfbc.png?auto=compress,format&format=webp)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643651007781/Zlb8Pxfbc.png?auto=compress,format&format=webp" alt="Image" style="width: 200px; height: auto;">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
