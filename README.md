@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 😂 Random Dev Meme
-![](https://www.google.com/imgres?q=software%20developer%20memes%20funny&imgurl=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1643651007781%2FZlb8Pxfbc.png%3Fauto%3Dcompress%2Cformat%26format%3Dwebp&imgrefurl=https%3A%2F%2Fmuthuannamalai.tech%2F17-ridiculously-funny-programming-memes-for-developers&docid=1lefafM63gNlBM&tbnid=ldD87tan-2hF8M&vet=12ahUKEwis-ZzX86KGAxWBkIkEHV82DUcQM3oECFkQAA..i&w=640&h=640&hcb=2&ved=2ahUKEwis-ZzX86KGAxWBkIkEHV82DUcQM3oECFkQAA)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1643651007781/Zlb8Pxfbc.png?auto=compress,format&format=webp)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
