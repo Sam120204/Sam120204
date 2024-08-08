@@ -18,5 +18,9 @@
 ### 😂 Random Dev Meme
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643651007781/Zlb8Pxfbc.png?auto=compress,format&format=webp" alt="Image" style="width: 400px; height: auto;">
 
+### 📄 Resume
+[View My Resume](https://drive.google.com/file/d/1h0Ms8pZQf_Fe7Cor44oE6edit2oIalEm/view?usp=sharing)
 
+### 👨‍💻 About Me
+I am a passionate software developer with a strong interest in AI and machine learning. I have experience in developing full-stack applications and am always eager to learn new technologies and improve my skills.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
