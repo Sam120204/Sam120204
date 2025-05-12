@@ -15,8 +15,6 @@ I am a passionate software developer with a strong interest in **Full Stack**, *
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sam120204&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam120204&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sam120204&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
 <img src="https://github.com/user-attachments/assets/3a6adc1f-2e85-4300-bd5e-3e152b8afee3" style="width: 800px; height: auto;" alt="quote-steph">
