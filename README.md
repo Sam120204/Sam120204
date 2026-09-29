@@ -13,7 +13,7 @@ class Jiayou:
         "NLP Research Assistant",
     ]
 
-    incoming = "Quantitative Developer @ BMO | Jan–Apr 2027"
+    incoming = "Quantitative Developer @ BMO"
 
     previously = [
         "Bachelor of Computer Science @ University of Waterloo",
