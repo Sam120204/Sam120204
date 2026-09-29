@@ -1,28 +1,53 @@
+<h1 align="center">Hi, I'm Jiayou 👋</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samzjy_1204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayouz/) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Quantitative+Developer+%7C+NLP+Researcher;Building+where+AI+and+Finance+meet" alt="Typing animation: Quantitative Developer, NLP Researcher" />
+</p>
 
-### 👨‍💻 About Me
-I am a passionate software developer with a strong interest in **Full Stack**, **Machine Learning**, **Andriod Application Development**, and **Fintech** areas. Currently, I study Computer Science at the [University of Waterloo](https://cs.uwaterloo.ca/) and am doing Software Engineer Internship @[Health Canada](https://www.geds-sage.gc.ca/en/GEDS?pgid=015&dn=Q049SklBWU9VLlpIT05HQEhDLVNDLkdDLkNBLE9VPUlUUi1TUlQsT1U9SEVELURFUyxPVT1QTVJBLUFSTEEsT1U9SEMtU0MsTz1HQyxDPUNB). Feel free to check out my [Personal Website](https://jiayouzhong.com) to know more about me!
+```python
+class Jiayou:
+    name = "Jiayou (Sam) Zhong"
 
-### 📄 Resume
-[View My Resume](https://drive.google.com/file/d/1h0Ms8pZQf_Fe7Cor44oE6edit2oIalEm/view?usp=sharing)
+    currently = [
+        "Master of Mathematical Finance student @ University of Toronto",
+        "NLP Research Assistant",
+    ]
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
+    incoming = "Quantitative Developer @ BMO | Jan–Apr 2027"
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sam120204&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam120204&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    previously = [
+        "Bachelor of Computer Science @ University of Waterloo",
+        "Machine Learning Engineer Intern @ Health Canada",
+        "Software Engineer Intern @ Health Canada",
+    ]
 
+    skills = ["Python", "C++", "SQL", "Machine Learning", "DevOps", "Cloud Platform"]
+    interested_in = ["Quant Development", "Quant Research", "Software Engineering"]
+    favorite_domain = "Fintech"
+```
 
-### ✍️ Dev Quote
-<img src="https://github.com/user-attachments/assets/3a6adc1f-2e85-4300-bd5e-3e152b8afee3" style="width: 800px; height: auto;" alt="quote-steph">
+<p align="center">
+  <a href="https://cs.uwaterloo.ca/">University of Waterloo CS</a> ·
+  <a href="http://mmf.utoronto.ca/">U of T Mathematical Finance</a>
+</p>
 
+### 🔬 Research: AI Alignment
 
-### 😂 Dev Meme
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643651007781/Zlb8Pxfbc.png?auto=compress,format&format=webp" alt="Image" style="width: 400px; height: auto;">
+**AI alignment** is the work of making AI systems behave in ways that reflect human goals and values. My research focuses on **pluralistic alignment**: helping language models account for different people's perspectives, especially when there is no single answer that works for everyone.
 
+#### Publications
 
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**EMNLP 2025** · [Pluralistic Alignment for Healthcare: A Role-Driven Framework](https://aclanthology.org/2025.emnlp-main.1596/)  
+Introduces **ETHOSAGENTS**, a framework that simulates different roles and values to help language models respond to the diverse perspectives found in healthcare.
+
+**EMNLP 2026** · [VISPA: Pluralistic Alignment via Automatic Value Selection and Activation](https://arxiv.org/abs/2601.12758)  
+Introduces **VISPA**, a training-free approach that selects relevant values and steers a model's internal activations to better reflect them in its responses.
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jiayouz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://jiayouzhong.com"><img src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Personal website" /></a>
+  <a href="https://instagram.com/samzjy_1204"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://drive.google.com/file/d/1h0Ms8pZQf_Fe7Cor44oE6edit2oIalEm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white" alt="Resume" /></a>
+</p>
