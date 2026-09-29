@@ -27,8 +27,8 @@ class Jiayou:
 ```
 
 <p align="center">
-  <a href="https://cs.uwaterloo.ca/">University of Waterloo CS</a> ·
-  <a href="http://mmf.utoronto.ca/">U of T Mathematical Finance</a>
+  <a href="https://cs.uwaterloo.ca/">Bachelor of Computer Science @ U of Waterloo</a> ·
+  <a href="http://mmf.utoronto.ca/">Master of Mathematical Finance @ U of Toronto</a>
 </p>
 
 ### 🔬 Research: AI Alignment
